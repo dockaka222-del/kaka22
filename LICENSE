@@ -1,0 +1,82 @@
+MIT License
+
+Copyright (c) 2024 Voice Cloning AI Team
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Third-Party Licenses
+
+This project includes components from:
+
+- **Next.js**: MIT License
+- **React**: MIT License  
+- **Tailwind CSS**: MIT License
+- **shadcn/ui**: MIT License
+- **Radix UI**: MIT License
+- **Hugging Face Transformers**: Apache License 2.0
+- **Let's Encrypt**: ISC License
+
+## Voice Cloning Technology
+
+This software integrates with:
+
+- **Seed-VC**: Research purposes - please review original license
+- **edge-tts**: MIT License
+- **FFmpeg**: LGPL/GPL License
+
+## SSL Automation
+
+SSL automation uses:
+
+- **Let's Encrypt**: Free SSL certificates
+- **Certbot**: Apache License 2.0
+
+## Usage Rights
+
+This Voice Cloning AI software is provided for:
+
+✅ **Allowed Uses:**
+- Personal voice cloning projects
+- Educational and research purposes  
+- Commercial applications with proper attribution
+- VPS deployment and hosting
+- Modification and customization
+
+❌ **Prohibited Uses:**
+- Malicious voice impersonation
+- Unauthorized voice cloning of others
+- Illegal content generation
+- Violation of terms of service of integrated APIs
+
+## Disclaimer
+
+Users are responsible for:
+- Obtaining proper consent for voice cloning
+- Complying with local laws and regulations
+- Respecting API terms of service
+- Ensuring ethical use of voice cloning technology
+
+---
+
+**Voice Cloning AI v2.0.0**  
+**Domain**: voice.vipdayne.net  
+**Repository**: https://github.com/dockaka222-del/kaka1  
+**Contact**: voice@vipdayne.net
